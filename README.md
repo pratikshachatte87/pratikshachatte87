@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratikshachatte87
-- 👀 I’m interested in Frontend Development
+- 👀 Ready to dive in frontend development
 - 🌱 I’m in the Journey of upskilling myself
 - 📫 How to reach me https://www.linkedin.com/in/pratiksha-chatte/
 
